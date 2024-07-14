@@ -1,4 +1,4 @@
-# Pomo - Pomodoro Timer API
+# Pomodoro application
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
