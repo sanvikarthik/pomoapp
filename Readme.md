@@ -1,6 +1,7 @@
 # Pomo - Pomodoro Timer API
 
-![GitHub](https://img.shields.io/github/license/Himanshun3gi/pomo)
+[![GitHub license](https://img.shields.io/github/license/Himanshun3gi/pomo)](https://github.com/Himanshun3gi/pomo/blob/main/LICENSE)
+
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
